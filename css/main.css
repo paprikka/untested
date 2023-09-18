@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
-  --primary: #f9c412;
-  --primary-dark: #e7bf60;
+  --primary: #e27e18;
+  --primary-dark: #e27e18;
 }
 
 .test-dead-code-elimination-sentinel {
@@ -653,7 +653,7 @@ h6 {
 h2,
 h4,
 h6 {
-  font-style: italic;
+  /* font-style: italic; */
 }
 a {
   color: #f9c412;
@@ -838,8 +838,8 @@ video {
 }
 body {
   font-family: var(--font-family);
-  background: #181818;
-  color: #eee;
+  background: white;
+  color: #333;
 }
 section {
   margin-left: auto;
