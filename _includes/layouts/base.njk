@@ -58,6 +58,16 @@
     <script csp-hash>if (/Mac OS X/.test(navigator.userAgent))document.documentElement.classList.add('apple')
     </script>
     <!-- css is inserted by optimize-html custom plugin -->
+
+      <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const remoteLinks = document.querySelectorAll('a[href^="//"], a[href^="http"]');
+
+        [...remoteLinks].forEach((anchor) => {
+          anchor.target = "_blank";
+        });
+      });
+    </script>
   </head>
   <body>
     <header>
