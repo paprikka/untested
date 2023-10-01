@@ -56,7 +56,7 @@
       "permanent": true
     },
     {
-      "source": "/posts/020",
+      "source": "/posts/010",
       "destination": "/retrospective.png",
       "permanent": true
     },
@@ -107,7 +107,7 @@
       "permanent": true
     },
     {
-      "source": "/posts/020/",
+      "source": "/posts/010/",
       "destination": "/retrospective.png",
       "permanent": true
     }
