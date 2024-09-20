@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://publish.obsidian.md/serve?url=untested.sonnet.io/"
+      "destination": "https://publish.obsidian.md/serve?url=old.untested.sonnet.io/"
     },
     {
       "source": "/:path*",
-      "destination": "https://publish.obsidian.md/serve?url=untested.sonnet.io/:path*"
+      "destination": "https://publish.obsidian.md/serve?url=old.untested.sonnet.io/:path*"
     }
   ],
   "redirects": [
