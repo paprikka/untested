@@ -11,6 +11,11 @@
   ],
   "redirects": [
     {
+      "source": "/Physical+uncolouring+book",
+      "destination": "https://new.untested.sonnet.io/notes/physical-uncolouring-book/",
+      "permanent": true
+    },
+    {
       "source": "/posts/001",
       "destination": "/111",
       "permanent": true
