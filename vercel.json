@@ -11,108 +11,108 @@
   ],
   "redirects": [
     {
-      "source": "\\/Physical\\+uncolouring\\+book",
-      "destination": "https:\\/\\/new\\.untested\\.sonnet\\.io\\/notes\\/physical\\-uncolouring\\-book\\/",
+      "source": "/Physical\\+uncolouring\\+book",
+      "destination": "https://new\\.untested\\.sonnet\\.io/notes/physical\\-uncolouring\\-book/",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/001",
-      "destination": "\\/111",
+      "source": "/posts/001",
+      "destination": "/111",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/002",
-      "destination": "\\/Visual\\+Snapshot\\+Tests%2C\\+Cheap\\+Bastard\\+Edition%E2%84%A2",
+      "source": "/posts/002",
+      "destination": "/Visual\\+Snapshot\\+Tests%2C\\+Cheap\\+Bastard\\+Edition%E2%84%A2",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/003",
-      "destination": "\\/Instead\\+or\\+writing\\+a\\+comment%2C\\+write\\+a\\+post\\+and\\+link\\+it",
+      "source": "/posts/003",
+      "destination": "/Instead\\+or\\+writing\\+a\\+comment%2C\\+write\\+a\\+post\\+and\\+link\\+it",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/004",
-      "destination": "\\/How\\+to\\+draw\\+a\\+Janusz",
+      "source": "/posts/004",
+      "destination": "/How\\+to\\+draw\\+a\\+Janusz",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/005",
-      "destination": "\\/Physical\\+uncolouring\\+book",
+      "source": "/posts/005",
+      "destination": "/Physical\\+uncolouring\\+book",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/006",
-      "destination": "\\/Dog\\+mode",
+      "source": "/posts/006",
+      "destination": "/Dog\\+mode",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/007",
-      "destination": "\\/%22I\\+understand%22",
+      "source": "/posts/007",
+      "destination": "/%22I\\+understand%22",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/008",
-      "destination": "\\/Projects\\+and\\+apps\\+I\\+built\\+for\\+my\\+own\\+well\\-being",
+      "source": "/posts/008",
+      "destination": "/Projects\\+and\\+apps\\+I\\+built\\+for\\+my\\+own\\+well\\-being",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/009",
-      "destination": "\\/The\\+modern\\+Web\\+has\\+lost\\+the\\+User\\+Agent",
+      "source": "/posts/009",
+      "destination": "/The\\+modern\\+Web\\+has\\+lost\\+the\\+User\\+Agent",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/010",
-      "destination": "\\/retrospective\\.png",
+      "source": "/posts/010",
+      "destination": "/retrospective\\.png",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/001\\/",
-      "destination": "\\/111",
+      "source": "/posts/001/",
+      "destination": "/111",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/002\\/",
-      "destination": "\\/Visual\\+Snapshot\\+Tests%2C\\+Cheap\\+Bastard\\+Edition%E2%84%A2",
+      "source": "/posts/002/",
+      "destination": "/Visual\\+Snapshot\\+Tests%2C\\+Cheap\\+Bastard\\+Edition%E2%84%A2",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/003\\/",
-      "destination": "\\/Instead\\+or\\+writing\\+a\\+comment%2C\\+write\\+a\\+post\\+and\\+link\\+it",
+      "source": "/posts/003/",
+      "destination": "/Instead\\+or\\+writing\\+a\\+comment%2C\\+write\\+a\\+post\\+and\\+link\\+it",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/004\\/",
-      "destination": "\\/How\\+to\\+draw\\+a\\+Janusz",
+      "source": "/posts/004/",
+      "destination": "/How\\+to\\+draw\\+a\\+Janusz",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/005\\/",
-      "destination": "\\/Physical\\+uncolouring\\+book",
+      "source": "/posts/005/",
+      "destination": "/Physical\\+uncolouring\\+book",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/006\\/",
-      "destination": "\\/Dog\\+mode",
+      "source": "/posts/006/",
+      "destination": "/Dog\\+mode",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/007\\/",
-      "destination": "\\/%22I\\+understand%22",
+      "source": "/posts/007/",
+      "destination": "/%22I\\+understand%22",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/008\\/",
-      "destination": "\\/Projects\\+and\\+apps\\+I\\+built\\+for\\+my\\+own\\+well\\-being",
+      "source": "/posts/008/",
+      "destination": "/Projects\\+and\\+apps\\+I\\+built\\+for\\+my\\+own\\+well\\-being",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/009\\/",
-      "destination": "\\/The\\+modern\\+Web\\+has\\+lost\\+the\\+User\\+Agent",
+      "source": "/posts/009/",
+      "destination": "/The\\+modern\\+Web\\+has\\+lost\\+the\\+User\\+Agent",
       "permanent": true
     },
     {
-      "source": "\\/posts\\/010\\/",
-      "destination": "\\/retrospective\\.png",
+      "source": "/posts/010/",
+      "destination": "/retrospective\\.png",
       "permanent": true
     }
   ]
