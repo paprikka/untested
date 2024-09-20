@@ -11,6 +11,11 @@
   ],
   "redirects": [
     {
+      "source": "/foo",
+      "destination": "/bar",
+      "permanent": true
+    },
+    {
       "source": "/Physical\\+uncolouring\\+book",
       "destination": "https://new\\.untested\\.sonnet\\.io/notes/physical\\-uncolouring\\-book/",
       "permanent": true
