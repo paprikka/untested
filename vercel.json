@@ -37,7 +37,7 @@
     },
     {
       "source": "/posts/004",
-      "destination": "/How+to+draw+a+Janusz",
+      "destination": "/How\\+to\\+draw\\+a\\+Janusz",
       "permanent": true
     },
     {
